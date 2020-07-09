@@ -1,0 +1,17 @@
+body {
+	background-color: blanchedalmond;
+}
+
+.Navigation {
+	background-color: lightgrey;
+	display: flex;
+	flex-direction: row;
+}
+
+.Navigation a {
+	color: rgb(45, 97, 133);
+}
+
+.Navigation .firstLink {
+	border-right: 1px solid black;
+}
